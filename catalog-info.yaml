@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: the-wild-oasis-nextjs
+  annotations:
+    github.com/project-slug: ahmedadel2020-code/the-wild-oasis-nextjs
+spec:
+  type: other
+  lifecycle: unknown
+  owner: my-group
